@@ -1,0 +1,26 @@
+{
+  "name": "tailwind_son",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jao99/tailwind_first_contact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jao99/tailwind_first_contact/issues"
+  },
+  "homepage": "https://github.com/Jao99/tailwind_first_contact#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwind-watch": "0.0.6",
+    "tailwindcss": "^3.0.13"
+  }
+}

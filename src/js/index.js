@@ -1,0 +1,1 @@
+const test = '<p class="text-red-800">teste</p>';
